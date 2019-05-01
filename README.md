@@ -51,6 +51,7 @@ To add your name to the list of supporters, make a pull request with your name a
 Supported by / 支持者:
 ---
 
+* Adam Lin, Software Engineer
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
 * Aladdin(唯然), Software Engineer, Alibaba Inc. 
